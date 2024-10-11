@@ -1,0 +1,20 @@
+constructor Vs function
+=======================
+constructor looks like a function but its not a function
+=======================
+constructor name is the name of the class but a function name could be anything
+=======================
+constructor cannot return anything but a function may or may not return
+=======================
+avoid business logic in the constructor but function should have the business logic
+=======================
+constructor is used to initialize the class/instance variable with the local variables using this keyword
+this can also be done in functions using encapsulation
+=======================
+constructor can be overloaded and so can functions
+=======================
+constructor will be called automatically when the object of the class is created but function will be called
+using the object reference name incase of non static methods and using classname.method() incase of static methods
+=======================
+constructor helps in object creation, function does restrict in the creation of objects of a class
+=======================
